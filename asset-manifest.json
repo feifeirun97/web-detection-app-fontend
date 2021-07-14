@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/web-detection-app-fontend/static/css/main.b3937820.chunk.css",
+    "main.js": "/web-detection-app-fontend/static/js/main.67ae171a.chunk.js",
+    "main.js.map": "/web-detection-app-fontend/static/js/main.67ae171a.chunk.js.map",
+    "runtime-main.js": "/web-detection-app-fontend/static/js/runtime-main.2073b9df.js",
+    "runtime-main.js.map": "/web-detection-app-fontend/static/js/runtime-main.2073b9df.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/web-detection-app-fontend/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.6b4886b5.chunk.js": "/web-detection-app-fontend/static/js/2.6b4886b5.chunk.js",
+    "static/js/2.6b4886b5.chunk.js.map": "/web-detection-app-fontend/static/js/2.6b4886b5.chunk.js.map",
+    "static/js/3.f70dee81.chunk.js": "/web-detection-app-fontend/static/js/3.f70dee81.chunk.js",
+    "static/js/3.f70dee81.chunk.js.map": "/web-detection-app-fontend/static/js/3.f70dee81.chunk.js.map",
+    "index.html": "/web-detection-app-fontend/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/web-detection-app-fontend/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.b3937820.chunk.css.map": "/web-detection-app-fontend/static/css/main.b3937820.chunk.css.map",
+    "static/js/2.6b4886b5.chunk.js.LICENSE.txt": "/web-detection-app-fontend/static/js/2.6b4886b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2073b9df.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.6b4886b5.chunk.js",
+    "static/css/main.b3937820.chunk.css",
+    "static/js/main.67ae171a.chunk.js"
+  ]
+}
