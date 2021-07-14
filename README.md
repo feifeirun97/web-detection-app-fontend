@@ -24,8 +24,8 @@ Clarifai API [click here!](https://www.clarifi.org/)
 
 
 
-![image-20210714154357566](/Users/xufei/Library/Application Support/typora-user-images/image-20210714154357566.png)
+![image-20210714154357566](https://i.loli.net/2021/07/14/TzLiQwoCP3BpfKX.png)
 
-![image-20210714154435120](/Users/xufei/Library/Application Support/typora-user-images/image-20210714154435120.png)
+![image-20210714154435120](https://i.loli.net/2021/07/14/KQLjT7W6YnDmPdN.png)
 
-![image-20210714154602069](/Users/xufei/Library/Application Support/typora-user-images/image-20210714154602069.png)
+![image-20210714154602069](https://i.loli.net/2021/07/14/AsucxYn28bJKBLt.png)
